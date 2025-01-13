@@ -1,0 +1,9 @@
+{
+	"css.customData": [
+		".vscode/tailwind.json"
+	],
+	"[svelte]": {
+		"editor.tabSize": 2
+	},
+	"vsicons.presets.nestjs": true
+}
